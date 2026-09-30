@@ -7,3 +7,9 @@
 - load_schedule … schedule.json を開いて、予定のリストにして返す。無ければ理由を出して止まる
 - filter_by_date … 予定の一覧から、指定した日のものだけを開始時刻の順に並べて返す
 - format_event … 予定1件を「09:00-18:00  題名  @場所」の1行の文字列にする
+
+## 第3回 午前
+1ページ開いたときの往復の数（およそ）: 30 回
+curl -I の1行目: HTTP/2 200
+無いページの1行目: HTTP/2 404
+API の full_name: junto-yarks/reskilling-practice  pushed_at: 2026-09-30T11:05:49Z
